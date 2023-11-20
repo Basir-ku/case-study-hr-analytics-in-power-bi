@@ -7,3 +7,7 @@ At the end, I finalize the case study by making design changes to my report that
 
 <img width="1310" alt="Screenshot 2023-11-20 at 18 03 52" src="https://github.com/Basir-ku/case-study-hr-analytics-in-power-bi/assets/123528497/c9312982-27cd-4089-82cd-48a260bb4174">
 
+
+<img width="1007" alt="Screenshot 2023-11-20 at 18 04 03" src="https://github.com/Basir-ku/case-study-hr-analytics-in-power-bi/assets/123528497/9964fac8-4277-416d-aadc-b0041086b422">
+
+
